@@ -79,7 +79,6 @@ function getRandomQuestion() {
 		let newQuestion = getRandomQuestion()
 		displayGame(newQuestion)
 	}
-	console.table(question)
 	return question
 }
 
